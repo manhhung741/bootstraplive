@@ -1,0 +1,14 @@
+{
+  "name": "Live Dabblet 2",
+    "version": "1.0",
+    "description": "Live html/css editor for bootstrap.",
+    "app": {
+      "launch": {
+        "local_path": "index.html"
+      }
+    },
+    "icons": {
+      "128": "edit.png"
+    },
+    "permissions": ["http://*/", "https://*/"]
+}
