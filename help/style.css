@@ -52,7 +52,7 @@ body > hgroup {
 }
 
 	body > hgroup > h1 {
-		font-family: Dabblet, sans-serif;
+		/* font-family: Dabblet, sans-serif; */
 		font-size: 100%;
 	}
 	
